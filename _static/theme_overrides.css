@@ -1,0 +1,21 @@
+.wy-nav-content {
+    max-width: 1050px
+}
+
+.rst-content table .line-block {
+  margin-left: 0px;
+}
+
+.rst-content blockquote {
+  margin-left: 0px;
+}
+
+div.width30 {
+    display: inline-block;
+    width: 30%;
+}
+
+div.width70 {
+    display: inline-block;
+    width: 68%;
+}
